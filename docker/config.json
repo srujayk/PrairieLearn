@@ -4,5 +4,7 @@
         "/PrairieLearn/testCourse",
         "/course"
     ],
-    "filesRoot": "/files"
+    "filesRoot": "/files",
+    "hasLti": true,
+    "ltiRedirectUrl": "https://1e6db1da.ngrok.io"
 }
