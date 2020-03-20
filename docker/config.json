@@ -2,9 +2,10 @@
     "courseDirs": [
         "/PrairieLearn/exampleCourse",
         "/PrairieLearn/testCourse",
-        "/course"
+	"/PrairieLearn/srujayCourse"
     ],
     "filesRoot": "/files",
     "hasLti": true,
-    "ltiRedirectUrl": "https://1e6db1da.ngrok.io"
+    "authType": true,
+    "ltiRedirectUrl": "http://34.69.142.181:3000/pl/lti"
 }
