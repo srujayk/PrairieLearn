@@ -6,6 +6,6 @@
     ],
     "filesRoot": "/files",
     "hasLti": true,
-    "authType": true,
+    "authType": "none",
     "ltiRedirectUrl": "http://34.69.142.181:3000/pl/lti"
 }
