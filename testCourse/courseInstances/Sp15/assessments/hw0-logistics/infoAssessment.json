@@ -1,0 +1,20 @@
+{
+    "uuid": "294e5843-b707-4722-b5d6-266b82e9c6d0",
+    "type": "Homework",
+    "title": "Logistics Assignment (HW #0)",
+    "set": "Homework",
+    "number": "1",
+    "allowAccess": [
+        {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {"id": "courseName",                "points": 1, "maxPoints": 1}
+            ]
+        }
+    ], 
+    "text": "This is a test Q written by Varun. If you see this, WE ARE GUCCI!"
+}

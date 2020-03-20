@@ -1,0 +1,18 @@
+{
+    "uuid": "58f1d811-b3e7-4684-b47e-d1a47032929c",
+    "title": "Logistics",
+    "topic": "Logistics",
+    "tags": ["MC", "v2"],
+    "clientFiles": ["client.js"],
+    "type": "MultipleChoice",
+    "options": {
+        "text": "What is the name of this course?",
+        "correctAnswers": [
+            "CS 169"
+        ],
+        "incorrectAnswers": [
+            "CS 170"
+        ],
+        "numberAnswers": 2
+    }
+}
