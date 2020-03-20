@@ -14,4 +14,4 @@ def generate(data):
     c = a + b
 
     # Put the sum into data['correct_answers']
-    data['correct_answers']['c'] = c
+    data['correct_answers']['course-name'] = 'CS 169'
